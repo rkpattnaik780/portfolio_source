@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Ramakrishna Pattnaik - Software Enginner</title>
+      <link>https://rkpattnaik780.github.io.com//blog</link>
+      <description>Personal website of Ramakrishna Pattnaik</description>
+      <language>en-us</language>
+      <managingEditor>rkpattnaik780@gmail.com (Ramakrishna Pattnaik)</managingEditor>
+      <webMaster>rkpattnaik780@gmail.com (Ramakrishna Pattnaik)</webMaster>
+      <lastBuildDate>Mon, 01 Oct 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rkpattnaik780.github.io.com//tags/collaboration/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rkpattnaik780.github.io.com//blog/projects/havana-club-x-vald</guid>
+    <title>Havana Club x VALD</title>
+    <link>https://rkpattnaik780.github.io.com//blog/projects/havana-club-x-vald</link>
+    <description>In 2018 as part of its new brand strategy, Havana Club made a collaboration with a French artist: VALD.</description>
+    <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+    <author>rkpattnaik780@gmail.com (Ramakrishna Pattnaik)</author>
+    <category>Work Projects</category><category>Collaboration</category><category>Marketing</category><category>Social Media</category>
+  </item>
+
+    </channel>
+  </rss>
